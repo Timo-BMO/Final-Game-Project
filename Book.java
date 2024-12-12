@@ -26,7 +26,7 @@ public class Book extends Item {
 					Game.print("O P E N            S E S A M E ");
 					Game.print("The chest has been unlocked! Within it you find mountains of gold coins, and a key I suspect is our ticket out of there!");
 					Game.print("Thanks for playing!");
-					
+					worked = true;
 				}
 				
 			}
